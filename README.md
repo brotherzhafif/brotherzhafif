@@ -16,8 +16,10 @@
 
 ---
 [![](https://github-readme-stats.vercel.app/api?username=brotherzhafif&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brotherzhafif&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BrotherZhafif&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=BrotherZhafif&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in) 
