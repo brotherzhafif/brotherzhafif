@@ -15,8 +15,5 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brotherzhafif&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://github-readme-stats.vercel.app/api?username=brotherzhafif&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 ---
 [![](https://visitcount.itsvg.in/api?id=BrotherZhafif&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
