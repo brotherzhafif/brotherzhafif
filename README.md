@@ -14,4 +14,3 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brotherzhafif&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
