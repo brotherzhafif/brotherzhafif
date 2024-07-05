@@ -7,5 +7,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/brotherzhafif) 
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?logo=blogger&logoColor=white)](https://brotherzhafif1504.blogspot.com/p/brotherzhafif.html)
 
+![](https://raw.githubusercontent.com/dansecret/dansecret/output/snake.svg)
+
 ## ✉️ Reach me
 - [bangz1504@gmail.com](mailto:bangz1504@gmail.com)
